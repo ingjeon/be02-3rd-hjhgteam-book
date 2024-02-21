@@ -11,7 +11,7 @@
                 </li>
                 <li class="header-icon-list">
                     <router-link :to="{ path: '/webtoon', query: { classify: true } }" class="header-icon-list-link">
-                        웹툰 민재2
+                        웹툰 민재3
                     </router-link>
                 </li>
                 <li class="header-icon-list">
